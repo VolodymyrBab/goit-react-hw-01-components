@@ -1,0 +1,38 @@
+[
+    {
+      "avatar": "https://img.icons8.com/?size=512&id=V11LxIvoWh02&format=png",
+      "name": "Amy Wong",
+      "isOnline": false,
+      "id": 1812
+    },
+    {
+      "avatar": "https://img.icons8.com/?size=512&id=qzpodiwSoTXX&format=png",
+      "name": "Bender",
+      "isOnline": true,
+      "id": 1137
+    },
+    {
+      "avatar": "https://img.icons8.com/?size=512&id=S3yXCdE9wCUQ&format=png",
+      "name": "Fry",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "https://img.icons8.com/?size=512&id=1uRQ-dEnlW3t&format=png",
+      "name": " Leela",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "https://img.icons8.com/?size=512&id=HcjiA09-5OSy&format=png",
+      "name": "Zoidberg",
+      "isOnline": false,
+      "id": 1284
+    },
+    {
+      "avatar": "https://cdn-icons-png.flaticon.com/128/528/528076.png",
+      "name": "Angry Birds",
+      "isOnline": true,
+      "id": 1283
+    }
+  ]
