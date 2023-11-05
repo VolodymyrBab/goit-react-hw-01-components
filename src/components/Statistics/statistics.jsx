@@ -10,7 +10,7 @@ export const Statistics = ({ title, stats }) => {
     <ul className={css.list}>
       {stats.map(({ id, label, percentage }) =>
         
-        <li className={css.item} key={id} style={{backgroundColor:<red></red> }}>
+        <li className={css.item} key={id} style={{backgroundColor: }}>
           <span className={css.label}>{label}</span>
           <span className={css.percentage}>{percentage}%</span>
         </li>
@@ -20,9 +20,7 @@ export const Statistics = ({ title, stats }) => {
 };
 
 
-// Statistics.defaultProps = {
-//   stats: [],
-// };
+
 
 Statistics.propTypes = {
   title: PropTypes.string,
